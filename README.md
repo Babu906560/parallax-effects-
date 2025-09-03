@@ -1,1 +1,2 @@
 # parallax-effects-
+I have tried to learn a lot of things in this project and have also taught a lot of things. Like what is flex box. Then what is description box. Then how to create background image. How area is created. How background image and foreground image are parallaxed. Secondly, I talked about justifying content, how wrapper classes are created. How containers are created and how a visualization is done. I learned that between two images.
